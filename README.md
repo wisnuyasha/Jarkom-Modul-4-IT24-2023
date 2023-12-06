@@ -1,4 +1,4 @@
-# Jarkom-Modul-4-IT28-2023
+# Jarkom-Modul-4-IT24-2023
 
 ## Anggota
 | Nama | NRP |
@@ -42,8 +42,26 @@ Berikut merupakan perhitungan IP kami :
 Berikut merupakan topologi yang kami buat :
 ![Screenshot 2023-12-02 173523](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/c526e860-ad34-4a58-ac2c-5d8e7f8886b7)
 
-### 4. Setup IP / IP gateway untuk router dan client
 
-#### testing
+
+### 4. Konfigurasi IP / IP gateway untuk router dan client
+Contoh pada A1 (Fern-Switch4-LaubHills-Switch4-AppetitRegion) : 
+![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/8994d16e-d5ea-4cd6-9ca8-f7e1c00ea0ea)
+
+![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/533f90ee-1346-40b3-b05f-2363d02d51e9)
+
+![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/06315058-62fc-499a-ade9-312047e6d59c)
+
+![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/063becbc-bad8-43b9-8a65-90375bcda475)
+
+
+![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/194e51e1-6ad0-43ec-939f-4a1a9688edd7)
+
+![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/c55f04ec-825b-4b5a-96c3-ebb2870dc2e8)
+
+![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/7b84f37d-29ba-451c-b825-b2b809256099)
+
+![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/3821537c-68a9-41e6-9348-3da57239c60f)
+
 
 ### CIDR GNS3
