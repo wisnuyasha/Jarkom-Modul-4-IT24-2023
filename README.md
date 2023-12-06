@@ -25,9 +25,17 @@ Untuk di GNS3 CLOUD merupakan NAT1 jangan sampai salah agar bisa terkoneksi inte
 
 ### 1. Buat tree
 
+Berikut adalah gambar tree VLSM yang sudah dibuat :
+
+![WhatsApp Image 2023-12-05 at 18 09 07_5563c129](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100349628/3b30b27a-68a0-4ecb-8a6b-e5d15164be22)
+
+
 ### 2. Buat perhitungan pembagian IP
+
 Berikut merupakan perhitungan IP kami : 
+
 ![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/a8b1009b-c0b6-483a-82d9-cc3c1fadd08c)
+
 ![image](https://github.com/wisnuyasha/Jarkom-Modul-4-IT24-2023/assets/100693456/826d6217-013c-452f-9bd1-ffe0bbb420fd)
 
 ### 3. Buat topologi CPT
